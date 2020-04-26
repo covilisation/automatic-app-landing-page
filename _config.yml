@@ -65,10 +65,6 @@ features                                  :
     description                           : Our team is currently participating at the EuVsVirus europe-wide hackathon.
     fontawesome_icon_name                 : globe-europe
 
-  - title                                 : National Heath System integration
-    description                           : Cover-U is designed so that it can be easily integrated to work with a organizations like hospitals, healthcare providers and government institutions.
-    fontawesome_icon_name                 : globe-europe
-
   - title                                 : Scalable
     description                           : Cover-U's architecture and implementation has been designed from the ground up to enable worldwide scalability.
     fontawesome_icon_name                 : globe-europe
