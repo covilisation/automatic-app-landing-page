@@ -38,7 +38,7 @@ features                                  :
     fontawesome_icon_name                 : user-friends
     
   - title                                 : Fusion Tracking
-    description                           : TODO
+    description                           : The app can track anonoymously GPS/BLE/Wifi and calculate the health thread level compared to affected areas and people.
     fontawesome_icon_name                 : map-marker-alt
 
   - title                                 : Privacy-First
@@ -47,7 +47,7 @@ features                                  :
 
   - title                                 : Health Notifications
     description                           : Get notified when a close contact has been affected by the virus, or when you have been in contact to an affected third person.
-    fontawesome_icon_name                 : bells
+    fontawesome_icon_name                 : bell
 
   - title                                 : Group Organization
     description                           : Organize your contacts into groups with different permissions and notification settings
@@ -55,19 +55,11 @@ features                                  :
   
   - title                                 : Hackathon Winner
     description                           : Winner of the "Ready-to-FastTrack" category of the CroudPolicy Greek Hackathon
-    fontawesome_icon_name                 : trophy-alt
+    fontawesome_icon_name                 : trophy
 
   - title                                 : Set your own health status
     description                           : You can set your own health status according to your symptoms and let your loved ones be notified.
     fontawesome_icon_name                 : heartbeat
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
